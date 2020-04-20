@@ -9,9 +9,14 @@ public class MusicPlayer {
 
     }
 
+    public MusicPlayer() {
+    }
+
+    ;
+
     public void setMusic(Music music) {
 
-        this.music=music;
+        this.music = music;
     }
 
     public void playMusic() {
