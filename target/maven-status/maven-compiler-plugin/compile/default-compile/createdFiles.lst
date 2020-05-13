@@ -1,4 +1,6 @@
 ru/ivan/config/MySpringMVCDispatcherServletInitializer.class
+ru/ivan/controllers/FirstController.class
 ru/ivan/config/SpringConfig.class
+ru/ivan/controllers/SecondController.class
 HelloServletJava.class
 ru/ivan/HelloController.class
